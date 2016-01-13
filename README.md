@@ -4,3 +4,30 @@
 
 ### Tutorial:
 - https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents
+
+
+
+- ~~Intro~~
+- ~~Environment Setup~~
+- ~~React Core Concepts~~
+- ~~React: Creating Components Introduction~~
+- ~~React Lifecycle~~
+- ~~React Composition~~
+- ~~React Router~~
+- ~~React Forms~~
+ - ~~Intro~~
+ - ~~Create Manage Author Page~~
+ - ~~Build Controller View~~
+ - ~~Controlled Components~~
+ - ~~Creating Reusable Inputs~~
+ - ~~Consuming Reusable Inputs~~
+ - ~~Saving Data~~
+ - ~~Programmatic Redirects~~
+ - Notifications
+ - Validation
+ - PropTypes
+ - Transitions
+ - Form Hydration via URL
+ - Summary
+- Flux
+- Flux Demos
