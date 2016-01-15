@@ -28,7 +28,8 @@
     - wire up toastr
   - ~~Validation~~
     - add input validation
-  - PropTypes
+  - ~~PropTypes~~
+    - add propTypes to authorForm
   - Transitions
   - Form Hydration via URL
   - Summary
