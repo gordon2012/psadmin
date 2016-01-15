@@ -23,10 +23,11 @@
   - ~~Consuming Reusable Inputs~~
   - ~~Saving Data~~
   - ~~Programmatic Redirects~~
-  - Notifications
+  - ~~Notifications~~
     - install toastr
     - wire up toastr
-  - Validation
+  - ~~Validation~~
+    - add input validation
   - PropTypes
   - Transitions
   - Form Hydration via URL
