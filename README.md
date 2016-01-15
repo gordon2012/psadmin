@@ -15,19 +15,21 @@
 - ~~React Composition~~
 - ~~React Router~~
 - ~~React Forms~~
- - ~~Intro~~
- - ~~Create Manage Author Page~~
- - ~~Build Controller View~~
- - ~~Controlled Components~~
- - ~~Creating Reusable Inputs~~
- - ~~Consuming Reusable Inputs~~
- - ~~Saving Data~~
- - ~~Programmatic Redirects~~
- - Notifications
- - Validation
- - PropTypes
- - Transitions
- - Form Hydration via URL
- - Summary
+  - ~~Intro~~
+  - ~~Create Manage Author Page~~
+  - ~~Build Controller View~~
+  - ~~Controlled Components~~
+  - ~~Creating Reusable Inputs~~
+  - ~~Consuming Reusable Inputs~~
+  - ~~Saving Data~~
+  - ~~Programmatic Redirects~~
+  - Notifications
+    - install toastr
+    - wire up toastr
+  - Validation
+  - PropTypes
+  - Transitions
+  - Form Hydration via URL
+  - Summary
 - Flux
 - Flux Demos
