@@ -30,7 +30,7 @@
     - add input validation
   - ~~PropTypes~~
     - add propTypes to authorForm
-  - Transitions
+  - ~~Transitions~~
   - Form Hydration via URL
   - Summary
 - Flux
