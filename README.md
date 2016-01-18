@@ -31,7 +31,8 @@
   - ~~PropTypes~~
     - add propTypes to authorForm
   - ~~Transitions~~
-  - Form Hydration via URL
+  - ~~Form Hydration via URL~~
+    - implement author editing
   - Summary
 - Flux
 - Flux Demos
