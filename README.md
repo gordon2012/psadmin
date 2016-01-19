@@ -39,7 +39,7 @@
 - Flux Demos
   - ~~Intro~~
   - ~~Dispatcher~~
-  - Actions
+  - ~~Actions~~
   - Stores: Change Listeners
   - Stores: Registration
   - Stores: Private Storage
