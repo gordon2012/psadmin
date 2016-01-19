@@ -34,5 +34,19 @@
   - ~~Form Hydration via URL~~
     - implement author editing
   - Summary
-- Flux
+- ~~Flux~~
+
 - Flux Demos
+  - ~~Intro~~
+  - ~~Dispatcher~~
+  - Actions
+  - Stores: Change Listeners
+  - Stores: Registration
+  - Stores: Private Storage
+  - Stores: Interactions
+  - Stores: Initialization
+  - Update Author Flow with Flux
+  - Adding Store Listeners
+  - Delete Author via Flux
+  - Summary: Stepping Through Flux
+  - Final Challenge
