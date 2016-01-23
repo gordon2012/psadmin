@@ -40,7 +40,7 @@
   - ~~Intro~~
   - ~~Dispatcher~~
   - ~~Actions~~
-  - Stores: Change Listeners
+  - ~~Stores: Change Listeners~~
   - Stores: Registration
   - Stores: Private Storage
   - Stores: Interactions
