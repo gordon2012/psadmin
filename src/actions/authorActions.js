@@ -2,6 +2,7 @@
 
 var Dispatcher = require('../dispatcher/appDispatcher');
 var AuthorApi = require('../api/authorApi');
+var ActionTypes = require('../constants/actionTypes');
 
 var AuthorActions =
 {
@@ -9,9 +10,9 @@ var AuthorActions =
 	{
 		var newAuthor = AuthorApi.saveAuthor(author);
 
-		Dispatcher.dispatcher
-		({
-			actionType: actionType.CREATE_AUTHOR,
+		Dispatcher.dispatcher(
+		{
+			actionType: ActionTypes.CREATE_AUTHOR,
 			author: newAuthor
 		});
 	}
