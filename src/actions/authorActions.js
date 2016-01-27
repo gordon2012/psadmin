@@ -10,7 +10,7 @@ var AuthorActions =
 	{
 		var newAuthor = AuthorApi.saveAuthor(author);
 
-		Dispatcher.dispatcher(
+		Dispatcher.dispatch(
 		{
 			actionType: ActionTypes.CREATE_AUTHOR,
 			author: newAuthor
