@@ -44,7 +44,7 @@
   - ~~Stores: Registration~~
   - ~~Stores: Private Storage~~
   - ~~Stores: Interactions~~
-  - Stores: Initialization
+  - ~~Stores: Initialization~~
   - Update Author Flow with Flux
   - Adding Store Listeners
   - Delete Author via Flux
