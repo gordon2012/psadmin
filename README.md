@@ -45,7 +45,7 @@
   - ~~Stores: Private Storage~~
   - ~~Stores: Interactions~~
   - ~~Stores: Initialization~~
-  - Update Author Flow with Flux
+  - ~~Update Author Flow with Flux~~
   - Adding Store Listeners
   - Delete Author via Flux
   - Summary: Stepping Through Flux
