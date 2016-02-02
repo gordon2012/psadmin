@@ -46,7 +46,7 @@
   - ~~Stores: Interactions~~
   - ~~Stores: Initialization~~
   - ~~Update Author Flow with Flux~~
-  - Adding Store Listeners
+  - ~~Adding Store Listeners~~
   - Delete Author via Flux
   - Summary: Stepping Through Flux
   - Final Challenge
